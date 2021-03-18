@@ -16,7 +16,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: lorem-ipsum
+      - title: 'IoT at '
         url: lorem-ipsum
         style: primary
         arrow: false
