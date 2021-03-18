@@ -22,7 +22,7 @@ main_menu:
   - title: About
     url: /about
     style: link
-  - title: 'Products & '
+  - title: Products & Services
     url: /faq
     style: link
   - title: lorem-ipsum
