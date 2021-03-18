@@ -12,7 +12,7 @@ sections:
 
       Internet of Thing for the Channel Islands
     actions:
-      - title: Bus
+      - title: Business Solutions
         url: /store
         arrow: true
         style: primary
