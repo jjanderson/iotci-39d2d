@@ -10,7 +10,7 @@ sections:
     content: |
       # IoT CI
 
-      Internet of Thing \[IoT] for the Channel Islands
+      Internet of Things \[IoT] for the Channel Islands
     actions:
       - title: Business Solutions
         url: /store
