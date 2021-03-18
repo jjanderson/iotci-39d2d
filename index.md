@@ -23,7 +23,7 @@ sections:
         type: action
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Best sellers
+    title: Some of our IoT solutions
     icon: false
     light_title: true
     featured_products:
