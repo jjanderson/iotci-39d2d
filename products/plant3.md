@@ -8,6 +8,7 @@ default_original_image: images/violet-birch.png
 featured: true
 order: 3
 category: category/cactuses.md
+title: Asset tracking
 ---
 
 # Curabitur eu tempor
