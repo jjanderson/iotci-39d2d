@@ -1,7 +1,6 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/asset_tracking.fw.png
 default_original_image: images/violet-birch.png
